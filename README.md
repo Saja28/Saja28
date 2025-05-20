@@ -19,7 +19,7 @@
 - SQL (Joins, subqueries, aggregations)
 - Git & GitHub
 - Control Systems & MATLAB (from academic background)
-- Basics of AWS (S3, Lambda)
+-Excel
 
 ## 🌐 Connect with Me
 
