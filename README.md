@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Sajedeh Khaledi
 
 🎓 I have a Master’s degree in Control Engineering  
-🔍 I’m passionate about Python, data engineering, and financial technology  
+🔍 I’m passionate about Python, data engineering, and Data science 
 💼 I’m looking for roles in companies — data engineer, business analyst, or Python developer  
 🛠️ I’m learning AWS, SQL, and advanced Python  
-🎯 My goal: Become job-ready in 3 months for data/trading jobs
+
 
 ## 📈 My Projects
 
